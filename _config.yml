@@ -25,7 +25,7 @@ baseurl: "/mofid" # the subpath of your site, e.g. /blog
 url: "https://dcheng2022.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: just-the-docs 
+remote_theme: just-the-docs 
 plugins:
   - jekyll-feed
 
