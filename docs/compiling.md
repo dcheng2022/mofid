@@ -15,7 +15,7 @@ permalink: /compiling/
 
 ## Requirements
 1. A Python environment is required. If you do not have a Python environment installed, we recommend downloading and installing [Anaconda](https://www.anaconda.com/distribution/#download-section). MOFid is compatible with Python 3.
-2. Make sure you have the following: a C++ compiler (the latest version of [GCC 10](https://gcc.gnu.org/gcc-10/) is recommended), [CMake](https://cmake.org/), and [GNU Make](https://www.gnu.org/software/make/). If running on Windows, we recommend using [Cygwin](https://www.cygwin.com/) and including the `cmake`, `make`, `wget`, `gcc-core`, `gcc-g++`, and `pkg-config` packages in addition to the default options during the installation process.
+2. Make sure you have the following: a C++ compiler (the latest version of [GCC 11](https://gcc.gnu.org/gcc-11/) is recommended), [CMake](https://cmake.org/), and [GNU Make](https://www.gnu.org/software/make/). If running on Windows, we recommend using [Cygwin](https://www.cygwin.com/) and including the `cmake`, `make`, `wget`, `gcc-core`, `gcc-g++`, and `pkg-config` packages in addition to the default options during the installation process.
 3. Make sure you have the [Java Runtime Environment](https://www.java.com/en/download/) installed and included in your system's path. If unsure, try running `java` in the command line to see if it successfully calls Java.
 
 ## Installation
